@@ -226,6 +226,7 @@
     <None Include="Properties\PublishProfiles\Shree532Webapp - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\Shree532WepAppDeploy - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\Shree532WepAppDeploy - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\Shree532WepAppDeploy-dev1 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
